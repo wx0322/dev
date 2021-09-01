@@ -1,1 +1,0 @@
-select top 1 name from test;
